@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794464555647,
+      "tag": "0000_training_dataset_public_policies",
+      "breakpoints": true
+    }
+  ]
+}
